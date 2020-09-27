@@ -1,18 +1,3 @@
-body {
-  background: url('https://media.giphy.com/media/3o7WTDJQVuYwhhuLhC/giphy.gif') !important;
-}
-
-#masthead,
-#primary {
-  -webkit-filter: invert(100%);
-  filter: invert(100%);
-  background-color: #fff;
-  padding: 20px !important;
-}
-#masthead {
-  background: none;
-}
-#masthead img, #primary img {
-  -webkit-filter: invert(100%);
-  filter: invert(100%);
-}
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap');
+* {font-family: inconsolata;}
+* {cursor: url(https://cur.cursors-4u.net/cursors/cur-2/cur116.cur), auto !important;}
